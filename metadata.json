@@ -1,0 +1,6 @@
+{
+  "name": "قرية الخدمة | Smurf Service Village",
+  "description": "منصة الخدام ومدارس الأحد الروحية المستوحاة من قرية السنافر بروح مفرحة وأنيقة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
